@@ -366,7 +366,8 @@ const Index = () => {
                 <div className="w-8 h-8 bg-gradient-to-br from-gold-400 to-gold-600 rounded-lg flex items-center justify-center">
                   <span className="text-black font-bold">K</span>
                 </div>
-                <span className="text-white font-semibold">KINGSMAN CORPORATION</span>
+                <span className="text-white font-semibold">KINGSMANS
+</span>
               </div>
               <p className="text-white/60 text-sm">© 2025 Все права защищены</p>
             </div>
