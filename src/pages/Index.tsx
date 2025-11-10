@@ -127,7 +127,7 @@ const Index = () => {
                 <div className="w-10 h-10 bg-gradient-to-br from-gold-400 to-gold-600 rounded-lg flex items-center justify-center">
                   <span className="text-black font-bold text-xl">K</span>
                 </div>
-                <h1 className="text-2xl font-bold text-white tracking-wider">KINGSMAN</h1>
+                <h1 className="text-2xl font-bold text-white tracking-wider">KINGSMANS</h1>
               </div>
               
               <div className="flex space-x-1">
@@ -193,16 +193,12 @@ const Index = () => {
                     <div className="inline-block mb-6 px-6 py-2 bg-gold-400/20 backdrop-blur-md border border-gold-400/30 rounded-full">
                       <span className="text-gold-400 font-semibold tracking-wider">ЭЛИТНАЯ КОРПОРАЦИЯ</span>
                     </div>
-                    <h1 className="text-7xl font-bold text-white mb-6 tracking-tight">
-                      KINGSMAN
-                    </h1>
+                    <h1 className="text-7xl font-bold text-white mb-6 tracking-tight">KINGSMANS</h1>
                     <div className="h-1 w-32 bg-gradient-to-r from-transparent via-gold-400 to-transparent mx-auto mb-8"></div>
                     <p className="text-2xl text-white/90 mb-8 leading-relaxed">
                       Лидер корпоративного рынка Лос-Сантоса
                     </p>
-                    <p className="text-lg text-white/70 mb-12 max-w-2xl mx-auto leading-relaxed">
-                      Мы создаём будущее бизнеса в San Andreas, устанавливая новые стандарты качества и профессионализма
-                    </p>
+                    <p className="text-lg text-white/70 mb-12 max-w-2xl mx-auto leading-relaxed"></p>
                     <div className="flex justify-center gap-4">
                       <Button 
                         size="lg"
@@ -375,7 +371,7 @@ const Index = () => {
                 <div className="w-8 h-8 bg-gradient-to-br from-gold-400 to-gold-600 rounded-lg flex items-center justify-center">
                   <span className="text-black font-bold">K</span>
                 </div>
-                <span className="text-white font-semibold">KINGSMAN CORPORATION</span>
+                <span className="text-white font-semibold">KINGSMANS</span>
               </div>
               <p className="text-white/60 text-sm">© 2025 Все права защищены</p>
             </div>
